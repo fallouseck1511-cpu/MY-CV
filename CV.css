@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    padding: 10px;
+}
+#navbar {
+    width: 250px;
+    background-color: rgb(201, 190, 172);
+    padding: 20px;
+    margin-right: 20px;
+    align-self: flex-start;
+}
+#content {
+    padding: 20px;;
+}

@@ -10,5 +10,6 @@ body {
     align-self: flex-start;
 }
 #content {
-    padding: 20px;;
+    padding: 20px;
+    width: 400px
 }
